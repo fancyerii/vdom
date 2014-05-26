@@ -1,0 +1,658 @@
+{
+  "body": {
+    "bound": {
+      "height": 4000,
+      "left": 0,
+      "top": 0,
+      "width": 1600
+    },
+    "computed": {
+      "alignment-baseline": "auto",
+      "background-attachment": "scroll",
+      "background-clip": "border-box",
+      "background-color": "rgb(255, 255, 255)",
+      "background-image": "none",
+      "background-origin": "padding-box",
+      "background-position": "0% 0%",
+      "background-repeat": "repeat",
+      "background-size": "auto auto",
+      "baseline-shift": "baseline",
+      "border-bottom-color": "rgb(0, 0, 0)",
+      "border-bottom-left-radius": "0px",
+      "border-bottom-right-radius": "0px",
+      "border-bottom-style": "none",
+      "border-bottom-width": "0px",
+      "border-collapse": "separate",
+      "border-left-color": "rgb(0, 0, 0)",
+      "border-left-style": "none",
+      "border-left-width": "0px",
+      "border-right-color": "rgb(0, 0, 0)",
+      "border-right-style": "none",
+      "border-right-width": "0px",
+      "border-top-color": "rgb(0, 0, 0)",
+      "border-top-left-radius": "0px",
+      "border-top-right-radius": "0px",
+      "border-top-style": "none",
+      "border-top-width": "0px",
+      "bottom": "auto",
+      "box-shadow": "none",
+      "box-sizing": "content-box",
+      "caption-side": "top",
+      "clear": "none",
+      "clip": "auto",
+      "clip-path": "none",
+      "clip-rule": "nonzero",
+      "color": "rgb(0, 0, 0)",
+      "color-interpolation": "srgb",
+      "color-interpolation-filters": "linearrgb",
+      "color-rendering": "auto",
+      "cursor": "auto",
+      "direction": "ltr",
+      "display": "block",
+      "dominant-baseline": "auto",
+      "empty-cells": "show",
+      "fill": "#000000",
+      "fill-opacity": "1",
+      "fill-rule": "nonzero",
+      "filter": "none",
+      "float": "none",
+      "flood-color": "rgb(0, 0, 0)",
+      "flood-opacity": "1",
+      "font-family": "arial",
+      "font-size": "12px",
+      "font-style": "normal",
+      "font-variant": "normal",
+      "font-weight": "normal",
+      "glyph-orientation-horizontal": "0deg",
+      "glyph-orientation-vertical": "auto",
+      "height": "4000px",
+      "image-rendering": "auto",
+      "kerning": "0",
+      "left": "auto",
+      "letter-spacing": "normal",
+      "lighting-color": "rgb(255, 255, 255)",
+      "line-height": "normal",
+      "list-style-image": "none",
+      "list-style-position": "outside",
+      "list-style-type": "none",
+      "margin-bottom": "0px",
+      "margin-left": "0px",
+      "margin-right": "0px",
+      "margin-top": "0px",
+      "marker-end": "none",
+      "marker-mid": "none",
+      "marker-start": "none",
+      "mask": "none",
+      "max-height": "none",
+      "max-width": "none",
+      "min-height": "0px",
+      "min-width": "0px",
+      "opacity": "1",
+      "orphans": "2",
+      "outline-color": "rgb(0, 0, 0)",
+      "outline-style": "none",
+      "outline-width": "0px",
+      "overflow-x": "visible",
+      "overflow-y": "visible",
+      "padding-bottom": "0px",
+      "padding-left": "0px",
+      "padding-right": "0px",
+      "padding-top": "0px",
+      "page-break-after": "auto",
+      "page-break-before": "auto",
+      "page-break-inside": "auto",
+      "pointer-events": "auto",
+      "position": "relative",
+      "resize": "none",
+      "right": "auto",
+      "shape-rendering": "auto",
+      "speak": "normal",
+      "stop-color": "rgb(0, 0, 0)",
+      "stop-opacity": "1",
+      "stroke": "none",
+      "stroke-dasharray": "none",
+      "stroke-dashoffset": "0",
+      "stroke-linecap": "butt",
+      "stroke-linejoin": "miter",
+      "stroke-miterlimit": "4",
+      "stroke-opacity": "1",
+      "stroke-width": "1",
+      "table-layout": "auto",
+      "text-align": "-webkit-auto",
+      "text-anchor": "start",
+      "text-decoration": "none",
+      "text-indent": "0px",
+      "text-overflow": "clip",
+      "text-rendering": "auto",
+      "text-shadow": "none",
+      "text-transform": "none",
+      "top": "auto",
+      "unicode-bidi": "normal",
+      "vector-effect": "none",
+      "vertical-align": "baseline",
+      "visibility": "visible",
+      "white-space": "normal",
+      "widows": "2",
+      "width": "1600px",
+      "word-break": "normal",
+      "word-spacing": "0px",
+      "word-wrap": "normal",
+      "writing-mode": "lr-tb",
+      "z-index": "auto",
+      "zoom": "1"
+    },
+    "scroll": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  "descriptions": [],
+  "titles": [
+    "百度一下，你就知道"
+  ],
+  "url": "http://www.baidu.com/",
+  "links": [
+    "http://www.baidu.com/gaoji/preferences.html",
+    "http://www.baidu.com/",
+    "https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F",
+    "https://passport.baidu.com/v2/?reg&regType=1&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F",
+    "http://www.baidu.com/",
+    "http://news.baidu.com/ns?cl=2&rn=20&tn=news&word=",
+    "http://tieba.baidu.com/f?kw=&fr=wwwt",
+    "http://zhidao.baidu.com/q?ct=17&pn=0&tn=ikaslist&rn=10&word=&fr=wwwt",
+    "http://music.baidu.com/search?fr=ps&key=",
+    "http://image.baidu.com/i?tn=baiduimage&ct=201326592&lm=-1&cl=2&nc=1&word=",
+    "http://v.baidu.com/v?ct=301989888&rn=20&pn=0&db=0&s=25&word=",
+    "http://map.baidu.com/m?word=&fr=ps01000",
+    "http://wenku.baidu.com/search?word=&lm=0&od=0",
+    "http://www.baidu.com/more/",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://shouji.baidu.com/baidusearch/mobisearch.html?ref=pcjg&from=1000139w",
+    "http://www.baidu.com/gaoji/preferences.html",
+    "https://passport.baidu.com/v2/?login&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F",
+    "https://passport.baidu.com/v2/?reg&regType=1&tpl=mn&u=http%3A%2F%2Fwww.baidu.com%2F",
+    "http://news.baidu.com/",
+    "http://tieba.baidu.com/",
+    "http://zhidao.baidu.com/",
+    "http://music.baidu.com/",
+    "http://image.baidu.com/",
+    "http://v.baidu.com/",
+    "http://map.baidu.com/",
+    "javascript:;",
+    "javascript:;",
+    "javascript:;",
+    "http://baike.baidu.com/",
+    "http://wenku.baidu.com/",
+    "http://www.hao123.com/",
+    "http://www.baidu.com/more/",
+    "http://www.baidu.com/",
+    "http://www.baidu.com/cache/sethelp/index.html",
+    "http://e.baidu.com/?refer=888",
+    "http://top.baidu.com/",
+    "http://home.baidu.com/",
+    "http://ir.baidu.com/",
+    "http://www.baidu.com/duty/"
+  ],
+  "texts": [
+    {
+      "bound": {
+        "height": 23,
+        "left": 0,
+        "top": 0,
+        "width": 1600
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(153, 153, 153)",
+        "border-left-color": "rgb(153, 153, 153)",
+        "border-right-color": "rgb(153, 153, 153)",
+        "border-top-color": "rgb(153, 153, 153)",
+        "color": "rgb(153, 153, 153)",
+        "outline-color": "rgb(153, 153, 153)",
+        "padding-bottom": "5px",
+        "padding-right": "10px",
+        "padding-top": "4px",
+        "position": "static",
+        "text-align": "right"
+      },
+      "element": {
+        "classes": [],
+        "id": "u1",
+        "name": "div"
+      },
+      "html": "<a href=\"http://www.baidu.com/gaoji/preferences.html\" name=\"tj_setting\">搜索设置</a>|<a href=\"https://passport.baidu.com/v2/?login&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2F\" name=\"tj_login\" id=\"lb\" onclick=\"return false;\">登录</a><a href=\"https://passport.baidu.com/v2/?reg&amp;regType=1&amp;tpl=mn&amp;u=http%3A%2F%2Fwww.baidu.com%2F\" target=\"_blank\" name=\"tj_reg\" class=\"reg\">注册</a>",
+      "path": [
+        "div",
+        "div",
+        "div"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "u1",
+          "name": "div"
+        }
+      ],
+      "text": [
+        "搜索设置",
+        "|",
+        "登录",
+        "注册"
+      ]
+    },
+    {
+      "bound": {
+        "height": 19,
+        "left": 440,
+        "top": 157,
+        "width": 720
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "16px",
+        "margin-bottom": "4px",
+        "position": "static",
+        "text-align": "left",
+        "text-indent": "137px"
+      },
+      "element": {
+        "classes": [],
+        "id": "nv",
+        "name": "p"
+      },
+      "html": "<a href=\"http://news.baidu.com\" name=\"tj_news\">新&nbsp;闻</a>　<b>网&nbsp;页</b>　<a href=\"http://tieba.baidu.com\" name=\"tj_tieba\">贴&nbsp;吧</a>　<a href=\"http://zhidao.baidu.com\" name=\"tj_zhidao\">知&nbsp;道</a>　<a href=\"http://music.baidu.com\" name=\"tj_mp3\">音&nbsp;乐</a>　<a href=\"http://image.baidu.com\" name=\"tj_img\">图&nbsp;片</a>　<a href=\"http://v.baidu.com\" name=\"tj_video\">视&nbsp;频</a>　<a href=\"http://map.baidu.com\" name=\"tj_map\">地&nbsp;图</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "nv",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "新 闻",
+        "网 页",
+        "贴 吧",
+        "知 道",
+        "音 乐",
+        "图 片",
+        "视 频",
+        "地 图"
+      ]
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 440,
+        "top": 249,
+        "width": 720
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "font-size": "14px",
+        "margin-bottom": "33px",
+        "margin-top": "33px",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "lk",
+        "name": "p"
+      },
+      "html": "<a href=\"http://baike.baidu.com\" name=\"tj_baike\">百科</a>　<a href=\"http://wenku.baidu.com\" name=\"tj_wenku\">文库</a>　<a href=\"http://www.hao123.com\" name=\"tj_hao123\">hao123</a><span>&nbsp;|&nbsp;<a href=\"http://www.baidu.com/more/\" name=\"tj_more\">更多&gt;&gt;</a></span>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "lk",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "百科",
+        "文库",
+        "hao123",
+        " | ",
+        "更多>>"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 440,
+        "top": 3856,
+        "width": 720
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "st",
+        "name": "p"
+      },
+      "html": "<a id=\"seth\" onclick=\"h(this)\" href=\"/\" onmousedown=\"return ns_c({'fm':'behs','tab':'homepage','pos':0})\">把百度设为主页</a><a id=\"setf\" href=\"http://www.baidu.com/cache/sethelp/index.html\" onmousedown=\"return ns_c({'fm':'behs','tab':'favorites','pos':0})\" target=\"_blank\" style=\"display: inline; \">把百度设为主页</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftCon",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftConw",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "st",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "把百度设为主页"
+      ]
+    },
+    {
+      "bound": {
+        "height": 14,
+        "left": 440,
+        "top": 3888,
+        "width": 720
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "margin-bottom": "5px",
+        "margin-top": "16px",
+        "position": "static",
+        "text-align": "center",
+        "word-spacing": "3px"
+      },
+      "element": {
+        "classes": [],
+        "id": "lh",
+        "name": "p"
+      },
+      "html": "<a href=\"http://e.baidu.com/?refer=888\" onmousedown=\"return ns_c({'fm':'behs','tab':'btlink','pos':2})\">加入百度推广</a>&nbsp;|&nbsp;<a onmousedown=\"return ns_c({'fm':'behs','tab':'tj_bang'})\" href=\"http://top.baidu.com\">搜索风云榜</a>&nbsp;|&nbsp;<a onmousedown=\"return ns_c({'fm':'behs','tab':'tj_about'})\" href=\"http://home.baidu.com\">关于百度</a>&nbsp;|&nbsp;<a onmousedown=\"return ns_c({'fm':'behs','tab':'tj_about_en'})\" href=\"http://ir.baidu.com\">About Baidu</a>",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftCon",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftConw",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "lh",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "加入百度推广",
+        " | ",
+        "搜索风云榜",
+        " | ",
+        "关于百度",
+        " | ",
+        "About Baidu"
+      ]
+    },
+    {
+      "bound": {
+        "height": 20,
+        "left": 440,
+        "top": 3909,
+        "width": 720
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "cp",
+        "name": "p"
+      },
+      "html": "©2014&nbsp;Baidu&nbsp;<a href=\"/duty/\" name=\"tj_duty\">使用百度前必读</a>&nbsp;京ICP证030173号&nbsp;<img src=\"http://www.baidu.com/cache/global/img/gs-2.0.gif\">",
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftCon",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftConw",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cp",
+          "name": "p"
+        }
+      ],
+      "text": [
+        "©2014 Baidu ",
+        "使用百度前必读",
+        " 京ICP证030173号 "
+      ]
+    }
+  ],
+  "images": [
+    {
+      "bound": {
+        "height": 129,
+        "left": 665,
+        "top": 25,
+        "width": 270
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "margin-bottom": "3px",
+        "position": "static",
+        "text-align": "center",
+        "vertical-align": "top"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "content",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "lg",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.baidu.com/img/bdlogo.gif"
+    },
+    {
+      "bound": {
+        "height": 17,
+        "left": 924,
+        "top": 3910,
+        "width": 15
+      },
+      "computed": {
+        "background-color": "rgba(0, 0, 0, 0)",
+        "border-bottom-color": "rgb(102, 102, 102)",
+        "border-left-color": "rgb(102, 102, 102)",
+        "border-right-color": "rgb(102, 102, 102)",
+        "border-top-color": "rgb(102, 102, 102)",
+        "color": "rgb(102, 102, 102)",
+        "display": "inline",
+        "outline-color": "rgb(102, 102, 102)",
+        "position": "static",
+        "text-align": "center"
+      },
+      "element": {
+        "classes": [],
+        "id": "",
+        "name": "img"
+      },
+      "path": [
+        "div",
+        "div",
+        "div",
+        "p",
+        "img"
+      ],
+      "selector": [
+        {
+          "classes": [],
+          "id": "wrapper",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftCon",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "ftConw",
+          "name": "div"
+        },
+        {
+          "classes": [],
+          "id": "cp",
+          "name": "p"
+        },
+        {
+          "classes": [],
+          "id": "",
+          "name": "img"
+        }
+      ],
+      "src": "http://www.baidu.com/cache/global/img/gs-2.0.gif"
+    }
+  ]
+}
