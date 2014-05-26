@@ -189,7 +189,6 @@ public class WebPageViewer extends JFrame {
 						public void run() {
 							root = vdd.dump(u);
 							if(root!=null){
-								System.out.println(root.printTree(root));
 								dp.setRoot(root);
 								double[] rect=VDomNode.getContainingRect(root);
 								width=(int)rect[2];
